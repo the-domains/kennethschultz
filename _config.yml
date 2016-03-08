@@ -1,0 +1,14 @@
+layout_spectrum: 0.4882199
+typography_spectrum: 0.5229058
+color:
+  saturation: 0.2182182
+  lightness: 0.0908958
+  brandStrength: 0.5844241
+  brandColors:
+    - '#000000'
+    - '#D75B87'
+    - '#CFCEC5'
+    - '#656F77'
+    - '#A4809A'
+  rhythmicContrast: 0.3220966
+name: kennethschultz
