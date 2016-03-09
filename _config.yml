@@ -1,14 +1,29 @@
+name: kennethschultz
+favicon: null
 layout_spectrum: 0.4882199
 typography_spectrum: 0.5229058
+title: I build stuff.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2182182
-  lightness: 0.0908958
-  brandStrength: 0.5844241
   brandColors:
     - '#000000'
     - '#D75B87'
     - '#CFCEC5'
     - '#656F77'
     - '#A4809A'
+  brandStrength: 0.5844241
+  lightness: 0.0908958
+  saturation: 0.2182182
   rhythmicContrast: 0.3220966
-name: kennethschultz
+purpose: []
