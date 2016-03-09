@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kennethschultz]]></title>
         <description><![CDATA[kennethschultz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kennethschultz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 03:22:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 03:23:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kennethschultz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First]]></title>
             <description><![CDATA[<article><h1>First</h1><p>Hello World!</p></article>]]></description>
-            <link>undefinedfirst/index.html</link>
+            <link>https://thegrid.ai/kennethschultz/first/index.html</link>
             <guid isPermaLink="false">9ed56fc4-2af5-46e9-861d-a30cdda8d85b</guid>
-            <pubDate>Wed, 09 Mar 2016 03:22:04 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 03:22:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
